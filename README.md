@@ -57,7 +57,8 @@ The dashboard helps understand:
 
 # 📷 Dashboard Preview
 
-(Add dashboard screenshot here)
+(<img width="1553" height="782" alt="Screenshot 2026-07-13 090628" src="https://github.com/user-attachments/assets/fce8106d-2f6e-444f-b773-ff85781ded39" />
+)
 
 ---
 
